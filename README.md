@@ -1,1 +1,1 @@
-#tRPC setup with Express middleware
+## tRPC + Express backend and vite React frontend
